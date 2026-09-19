@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Google Drive service account credentials
+secrets/
+*service_account*.json
+*gdrive*key*.json
